@@ -1,6 +1,4 @@
-"""
-    Ejemplo del manejo de hilos
-"""
+#Tarea 2.2 POA
 
 import requests
 import time
@@ -23,7 +21,11 @@ def obtener_data():
 
 def worker(numero, url):
     print("Iniciando %s %s" % (threading.current_thread().getName(), url ))
-    # pass
+    import requests
+    pagina = requests.get("https://es.wikipedia.org/wiki/Provincia_de_Chimborazo")
+    archivo = open("salida/%s.txt" % "17", "w")
+    archivo.writelines(pagina.text)
+    archivo.close()
     time.sleep(10)
     print("Finalizando %s" % (threading.current_thread().getName()))
 

@@ -1,0 +1,805 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Provincia de Los Ríos - Wikipedia, la enciclopedia libre</title>
+<script>document.documentElement.className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled";(function(){var cookie=document.cookie.match(/(?:^|; )eswikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgRequestId":"bc285a9a-e9fc-494d-9b11-176dfe84031f",
+"wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Provincia_de_Los_Ríos","wgTitle":"Provincia de Los Ríos","wgCurRevisionId":152291156,"wgRevisionId":152291156,"wgArticleId":352972,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia:Páginas con argumentos formatnum no numéricos","Wikipedia:Artículos con enlaces externos rotos","Wikipedia:Artículos con datos por trasladar a Wikidata","Wikipedia:Artículos con ficha sin actualizar","Wikipedia:Artículos sin imagen en entidad subnacional","Wikipedia:Artículos con identificadores GND","Wikipedia:Artículos con identificadores Relación OSM","Wikipedia:Artículos con identificadores TGN","Wikipedia:Páginas con mapas","Los Ríos (provincia)"],"wgPageViewLanguage":"es","wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Provincia_de_Los_Ríos","wgRelevantArticleId":
+352972,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":50000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"español","wgCoordinates":{"lat":-1.3,"lon":-79.5},"wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q504260","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":true,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready",
+"ext.gadget.imagenesinfobox":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.kartographer.style":"ready","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.kartographer.staticframe","ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
+"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.a-commons-directo","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.kartographer.style%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.page.gallery.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.imagenesinfobox&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=noscript&amp;only=styles&amp;skin=vector-2022"></noscript>
+<meta name="generator" content="MediaWiki 1.41.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-crossorigin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Los_Rios_in_Ecuador_%28%2BGalapagos%29.svg/1200px-Los_Rios_in_Ecuador_%28%2BGalapagos%29.svg.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1291">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Los_Rios_in_Ecuador_%28%2BGalapagos%29.svg/800px-Los_Rios_in_Ecuador_%28%2BGalapagos%29.svg.png">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="861">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Los_Rios_in_Ecuador_%28%2BGalapagos%29.svg/640px-Los_Rios_in_Ecuador_%28%2BGalapagos%29.svg.png">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="689">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Provincia de Los Ríos - Wikipedia, la enciclopedia libre">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//es.m.wikipedia.org/wiki/Provincia_de_Los_R%C3%ADos">
+<link rel="alternate" type="application/x-wiki" title="Editar" href="/w/index.php?title=Provincia_de_Los_R%C3%ADos&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (es)">
+<link rel="EditURI" type="application/rsd+xml" href="//es.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://es.wikipedia.org/wiki/Provincia_de_Los_R%C3%ADos">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikipedia" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Provincia_de_Los_Ríos rootpage-Provincia_de_Los_Ríos skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Ir al contenido</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Sitio" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox"
+		id="vector-main-menu-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-main-menu-dropdown"
+		class="vector-dropdown-checkbox vector-menu-checkbox "
+		
+		aria-label="Menú principal"
+		
+	/>
+	<label
+		id="vector-main-menu-dropdown-label"
+		for="vector-main-menu-dropdown-checkbox"
+		class="vector-dropdown-label vector-menu-heading cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only "
+		aria-hidden="true"
+		
+	>
+		<span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+
+		<span class="vector-dropdown-label-text vector-menu-heading-label">Menú principal</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Menú principal</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">mover a la barra lateral</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">ocultar</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navegación
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:Portada" title="Visitar la página principal [z]" accesskey="z"><span>Portada</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Portal:Comunidad" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información"><span>Portal de la comunidad</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Actualidad" title="Encuentra información de contexto sobre acontecimientos actuales"><span>Actualidad</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en la wiki [r]" accesskey="r"><span>Cambios recientes</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/Especial:P%C3%A1ginasNuevas"><span>Páginas nuevas</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x"><span>Página aleatoria</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/Ayuda:Contenidos" title="El lugar para aprender"><span>Ayuda</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wikipedia.org&amp;uselang=es" title="Apóyanos"><span>Donaciones</span></a></li><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/Wikipedia:Informes_de_error"><span>Notificar un error</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Idiomas</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">En Wikipedia, los enlaces de idiomas se encuentran en la parte superior de la página, frente al título del artículo. <a href="#p-lang-btn">Ir arriba</a>.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+		</nav>
+			
+<a href="/wiki/Wikipedia:Portada" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt=""
+		aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia"
+			src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline"
+			alt="La enciclopedia libre"
+			src="/static/images/mobile/copyright/wikipedia-tagline-es.svg" width="120" height="13" style="width: 7.5em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Especial:Buscar"
+	
+		id=""
+		class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle"
+		title="Buscar en este wiki [f]"accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Buscar</span>
+	</a>
+	
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Buscar en Wikipedia" aria-label="Buscar en Wikipedia" autocapitalize="sentences" title="Buscar en este wiki [f]" accesskey="f" id="searchInput"
+							
+						>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Especial:Buscar">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Buscar</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Herramientas personales" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Provincia+de+Los+R%C3%ADos" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio"><span>Crear una cuenta</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Provincia+de+Los+R%C3%ADos" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o"><span>Acceder</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Más opciones" >
+	<input type="checkbox"
+		id="vector-user-links-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-user-links-dropdown"
+		class="vector-dropdown-checkbox vector-menu-checkbox "
+		
+		aria-label="Herramientas personales"
+		
+	/>
+	<label
+		id="vector-user-links-dropdown-label"
+		for="vector-user-links-dropdown-checkbox"
+		class="vector-dropdown-label vector-menu-heading cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only "
+		aria-hidden="true"
+		
+	>
+		<span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+
+		<span class="vector-dropdown-label-text vector-menu-heading-label">Herramientas personales</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Menú de usuario" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Provincia+de+Los+R%C3%ADos" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Crear una cuenta</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Provincia+de+Los+R%C3%ADos" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Acceder</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Páginas para editores desconectados <a href="/wiki/Ayuda:Introducci%C3%B3n" aria-label="Obtenga más información sobre editar"><span>más información</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y"><span>Contribuciones</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n"><span>Discusión</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Sitio" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contenidos" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contenidos</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">mover a la barra lateral</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">ocultar</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Inicio</div>
+			</a>
+		</li>
+		<li id="toc-Historia"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Historia">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Historia</div>
+		</a>
+		
+			<button aria-controls="toc-Historia-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Alternar subsección Historia</span>
+			</button>
+		
+		<ul id="toc-Historia-sublist" class="vector-toc-list">
+			<li id="toc-Época_prehispánica"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Época_prehispánica">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1</span>Época prehispánica</div>
+			</a>
+			
+			<ul id="toc-Época_prehispánica-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Época_colonial_y_republicana"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Época_colonial_y_republicana">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.2</span>Época colonial y republicana</div>
+			</a>
+			
+			<ul id="toc-Época_colonial_y_republicana-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Símbolos"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Símbolos">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Símbolos</div>
+		</a>
+		
+			<button aria-controls="toc-Símbolos-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Alternar subsección Símbolos</span>
+			</button>
+		
+		<ul id="toc-Símbolos-sublist" class="vector-toc-list">
+			<li id="toc-Toponimia"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Toponimia">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>Toponimia</div>
+			</a>
+			
+			<ul id="toc-Toponimia-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Bandera"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Bandera">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>Bandera</div>
+			</a>
+			
+			<ul id="toc-Bandera-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Escudo"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Escudo">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.3</span>Escudo</div>
+			</a>
+			
+			<ul id="toc-Escudo-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Gobierno_y_política"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Gobierno_y_política">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Gobierno y política</div>
+		</a>
+		
+			<button aria-controls="toc-Gobierno_y_política-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Alternar subsección Gobierno y política</span>
+			</button>
+		
+		<ul id="toc-Gobierno_y_política-sublist" class="vector-toc-list">
+			<li id="toc-Política"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Política">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>Política</div>
+			</a>
+			
+			<ul id="toc-Política-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-División_administrativa"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#División_administrativa">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2</span>División administrativa</div>
+			</a>
+			
+			<ul id="toc-División_administrativa-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Medio_físico"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Medio_físico">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Medio físico</div>
+		</a>
+		
+			<button aria-controls="toc-Medio_físico-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Alternar subsección Medio físico</span>
+			</button>
+		
+		<ul id="toc-Medio_físico-sublist" class="vector-toc-list">
+			<li id="toc-Ubicación"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Ubicación">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1</span>Ubicación</div>
+			</a>
+			
+			<ul id="toc-Ubicación-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Relieve"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Relieve">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.2</span>Relieve</div>
+			</a>
+			
+			<ul id="toc-Relieve-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Hidrografía"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Hidrografía">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.3</span>Hidrografía</div>
+			</a>
+			
+			<ul id="toc-Hidrografía-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Clima"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Clima">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.4</span>Clima</div>
+			</a>
+			
+			<ul id="toc-Clima-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Demografía"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Demografía">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Demografía</div>
+		</a>
+		
+			<button aria-controls="toc-Demografía-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Alternar subsección Demografía</span>
+			</button>
+		
+		<ul id="toc-Demografía-sublist" class="vector-toc-list">
+			<li id="toc-Datos_demográficos"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Datos_demográficos">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.1</span>Datos demográficos</div>
+			</a>
+			
+			<ul id="toc-Datos_demográficos-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Evolución_demográfica"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Evolución_demográfica">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.2</span>Evolución demográfica</div>
+			</a>
+			
+			<ul id="toc-Evolución_demográfica-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Cantones_y_ciudades_más_pobladas"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Cantones_y_ciudades_más_pobladas">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">5.3</span>Cantones y ciudades más pobladas</div>
+			</a>
+			
+			<ul id="toc-Cantones_y_ciudades_más_pobladas-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Economía"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Economía">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>Economía</div>
+		</a>
+		
+			<button aria-controls="toc-Economía-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Alternar subsección Economía</span>
+			</button>
+		
+		<ul id="toc-Economía-sublist" class="vector-toc-list">
+			<li id="toc-Datos_económicos"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Datos_económicos">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">6.1</span>Datos económicos</div>
+			</a>
+			
+			<ul id="toc-Datos_económicos-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Agricultura_y_ganadería"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Agricultura_y_ganadería">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">6.2</span>Agricultura y ganadería</div>
+			</a>
+			
+			<ul id="toc-Agricultura_y_ganadería-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Industrias"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Industrias">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">6.3</span>Industrias</div>
+			</a>
+			
+			<ul id="toc-Industrias-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Servicios"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Servicios">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">6.4</span>Servicios</div>
+			</a>
+			
+			<ul id="toc-Servicios-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Turismo"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Turismo">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">6.5</span>Turismo</div>
+			</a>
+			
+			<ul id="toc-Turismo-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Medios_de_transporte"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Medios_de_transporte">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>Medios de transporte</div>
+		</a>
+		
+			<button aria-controls="toc-Medios_de_transporte-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Alternar subsección Medios de transporte</span>
+			</button>
+		
+		<ul id="toc-Medios_de_transporte-sublist" class="vector-toc-list">
+			<li id="toc-Carreteras"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Carreteras">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">7.1</span>Carreteras</div>
+			</a>
+			
+			<ul id="toc-Carreteras-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Espacios_naturales"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Espacios_naturales">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>Espacios naturales</div>
+		</a>
+		
+			<button aria-controls="toc-Espacios_naturales-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Alternar subsección Espacios naturales</span>
+			</button>
+		
+		<ul id="toc-Espacios_naturales-sublist" class="vector-toc-list">
+			<li id="toc-Humedal_Abras_de_Mantequilla"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Humedal_Abras_de_Mantequilla">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">8.1</span>Humedal Abras de Mantequilla</div>
+			</a>
+			
+			<ul id="toc-Humedal_Abras_de_Mantequilla-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Flora_y_fauna"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Flora_y_fauna">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>Flora y fauna</div>
+		</a>
+		
+		<ul id="toc-Flora_y_fauna-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Fiestas_y_tradiciones"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Fiestas_y_tradiciones">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">10</span>Fiestas y tradiciones</div>
+		</a>
+		
+		<ul id="toc-Fiestas_y_tradiciones-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Gastronomía"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Gastronomía">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">11</span>Gastronomía</div>
+		</a>
+		
+		<ul id="toc-Gastronomía-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Deporte"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Deporte">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">12</span>Deporte</div>
+		</a>
+		
+		<ul id="toc-Deporte-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Sanidad"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Sanidad">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">13</span>Sanidad</div>
+		</a>
+		
+		<ul id="toc-Sanidad-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Seguridad"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Seguridad">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">14</span>Seguridad</div>
+		</a>
+		
+		<ul id="toc-Seguridad-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Educación"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Educación">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">15</span>Educación</div>
+		</a>
+		
+			<button aria-controls="toc-Educación-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Alternar subsección Educación</span>
+			</button>
+		
+		<ul id="toc-Educación-sublist" class="vector-toc-list">
+			<li id="toc-Educación_universitaria"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Educación_universitaria">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">15.1</span>Educación universitaria</div>
+			</a>
+			
+			<ul id="toc-Educación_universitaria-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Véase_también"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Véase_también">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">16</span>Véase también</div>
+		</a>
+		
+		<ul id="toc-Véase_también-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Referencias"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Referencias">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">17</span>Referencias</div>
+		</a>
+		
+		<ul id="toc-Referencias-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Enlaces_externos"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Enlaces_externos">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">18</span>Enlaces externos</div>
+		</a>
+		
+		<ul id="toc-Enlaces_externos-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet vector-button-flush-left cdx-button--icon-only"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Tabla de contenidos">
+						<span class="vector-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Cambiar a la tabla de contenidos</span>
+					</label>
+				
+					<nav role="navigation" aria-label="Contenidos" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-menu vector-dropdown vector-menu-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox"
+		id="vector-page-titlebar-toc-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-titlebar-toc"
+		class="vector-dropdown-checkbox vector-menu-checkbox "
+		
+		aria-label="Cambiar a la tabla de contenidos"
+		
+	/>
+	<label
+		id="vector-page-titlebar-toc-label"
+		for="vector-page-titlebar-toc-checkbox"
+		class="vector-dropdown-label vector-menu-heading cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only "
+		aria-hidden="true"
+		
+	>
+		<span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+
+		<span class="vector-dropdown-label-text vector-menu-heading-label">Cambiar a la tabla de contenidos</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Provincia de Los Ríos</span></h1>
+				
+							
+<div id="p-lang-btn" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox"
+		id="p-lang-btn-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-lang-btn"
+		class="vector-dropdown-checkbox vector-menu-checkbox mw-interlanguage-selector"
+		aria-label="Ir a un artículo en otro idioma. Disponible en 44 idiomas"
+		
+		
+	/>
+	<label
+		id="p-lang-btn-label"
+		for="p-lang-btn-checkbox"
+		class="vector-dropdown-label vector-menu-heading cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-44"
+		aria-hidden="true"
+		
+	>
+		<span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+
+		<span class="vector-dropdown-label-text vector-menu-heading-label">44 idiomas</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%85%D9%82%D8%A7%D8%B7%D8%B9%D8%A9_%D9%84%D9%88%D8%B3_%D8%B1%D9%8A%D9%88%D8%B3" title="
