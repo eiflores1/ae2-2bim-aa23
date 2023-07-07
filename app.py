@@ -4,8 +4,7 @@ import requests
 import time
 import csv
 import threading
-# librería de python que permite ejecutar comandos
-import subprocess
+import os
 
 def obtener_data():
     lista = []
@@ -15,17 +14,16 @@ def obtener_data():
             print(row[0].split("|"))
             numero = row[0].split("|")[0]
             pagina = row[0].split("|")[1]
-            lista.append((numero, pagina))
-# se retorna la lista con la información que se necesita
+            lista.append((numero, pagina))  
     return lista
 
 def worker(numero, url):
     print("Iniciando %s %s" % (threading.current_thread().getName(), url ))
-    import requests
-    pagina = requests.get("https://es.wikipedia.org/wiki/Provincia_de_Chimborazo")
-    archivo = open("salida/%s.txt" % "17", "w")
-    archivo.writelines(pagina.text)
-    archivo.close()
+    pagina = requests.get(url)
+    archivo_path = os.path.join("salida", f"{numero}.txt")
+    os.makedirs(os.path.dirname(archivo_path), exist_ok=True)
+    with open(archivo_path, "w") as archivo:
+        archivo.write(pagina.text)
     time.sleep(10)
     print("Finalizando %s" % (threading.current_thread().getName()))
 
