@@ -14,9 +14,11 @@ def obtener_data():
     with open("informacion/data.csv") as archivo:
         lineas = csv.reader(archivo, quotechar="|")
         for row in lineas:
-            # pass
-            # lista.append((numero, pagina))
-    # se retorna la lista con la información que se necesita
+            print(row[0].split("|"))
+            numero = row[0].split("|")[0]
+            pagina = row[0].split("|")[1]
+            lista.append((numero, pagina))
+# se retorna la lista con la información que se necesita
     return lista
 
 def worker(numero, url):
